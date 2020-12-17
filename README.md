@@ -29,7 +29,7 @@ Here, we have carried out some mini-Projects using TensorFlow and which are orga
   
   ### 3) Convolutional-Neural-Networks-in-Tensorflow
   
-     ##### Following Projects are included in this:
+   ##### Following Projects are included in this:
          
       a) Train a CNN on Cats-v-Dogs full dataset along with augmentation.
          
